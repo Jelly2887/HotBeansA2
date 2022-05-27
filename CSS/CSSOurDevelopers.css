@@ -1,0 +1,41 @@
+.card{
+    border: 2px;
+    border-color:  #006666;
+    font: #003333;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.card-img-top{
+    padding: auto;
+    border: 1px solid #006666;}
+
+    .top-container{background-color: white;
+        margin-left: 100px;
+        margin-right: 100px;
+        border: solid #006666;
+        border-width: 0.5px;
+        padding: 10px;
+        border-radius: 10px;
+        background-color: #CCFFE6;
+        
+    }
+    .introbox{
+        font-style: Helvetica;
+        font-size: 18px;
+        color: #033333;
+        text-align: center;
+        padding: 2px;  
+    }
+    .card-body{
+        width: 257px;
+        padding: 10px;
+        border-color: #006666;
+        border: 1px solid #006666;
+        background-color: #CCFFE6;
+        margin-bottom: 60px;
+    }
+    h4{
+        color: #033333;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+ 

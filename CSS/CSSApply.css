@@ -1,0 +1,9 @@
+label{font-family: Arial, Helvetica, sans-serif;
+        color: #003333;
+        font-size: 18px;}
+input{font-family: Arial, Helvetica, sans-serif;
+    color: #003333;
+    font-size: 18px;
+    background-color: #CCFFFF;
+    margin-right: 200px;}
+.form-group{border: 1px; border-color:#006666; }

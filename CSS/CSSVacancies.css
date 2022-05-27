@@ -1,0 +1,30 @@
+#more {display: none;}
+#more1 {display: none;}
+#more2 {display: none;}
+
+.card{
+    
+    padding: 10px;
+    border-color: #006666;
+    border: 1px solid #006666;
+    background-color: #CCFFE6;
+    margin-bottom: 60px;
+    margin-top: 60px;
+}
+h3{color: #033333;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h5{color: #033333;
+    font-family: Arial, Helvetica, sans-serif;}
+
+h6{color: #033333;
+    font-family: Arial, Helvetica, sans-serif;}
+p{color: #033333;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;}
+button{ background-color: #CCFFCD;
+        border-color: #006666;
+        font-family: Arial, Helvetica, sans-serif;
+    font: #033333;}
+

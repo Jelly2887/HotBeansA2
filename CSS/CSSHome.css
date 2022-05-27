@@ -1,0 +1,80 @@
+.top-container{background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: solid #006666;
+    border-width: 0.5px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.introbox{
+    font-style: Helvetica;
+    font-size: 18px;
+    color: #033333;
+}
+#inspiration{
+    font-style: Helvetica;
+    font-size: 18px;
+    font-style: italic;
+}
+
+h5{
+    color: #003333;
+    text-shadow:
+    1px 1px 0px #CCFFE6,
+    -3px -0 25px rgb(138, 159, 214),
+    3px 0px 3px white,
+    0px 0px 15px white,
+    15px 10px 10px black,
+    0 0 40px #CCFFE6;
+}
+    
+.info1{
+    background-color: #CCFFE6;
+    border: solid #006666;
+    border-width: 2px;
+    padding: 10px;
+    align-items: left;
+    margin-bottom: 10px;
+}
+.boxWAW{
+    color: #003333;
+    font-size: 16px;
+    font-style: Helvetica;
+}
+
+
+h3{
+    color: #003333;
+    font-style: Lucida 
+}
+
+.info2{
+    background-color: #CCFFFF;
+    border: solid #006666;
+    border-width: 2px;
+    padding: 10px;
+    align-items: left;
+    margin-bottom: 10px;
+
+}
+.boxWAOV{
+    color: #003333;
+    font-size: 16px;
+    font-style: Helvetica;
+}
+
+.info3{
+    background-color: #CCFFCD;
+    border: solid #006666;
+    border-width: 2px;
+    padding: 10px;
+    align-items: left;
+    margin-bottom: 10px;
+
+}
+.boxWAWTB{
+    color: #003333;
+    font-size: 16px;
+    font-style: Helvetica;
+}
+
